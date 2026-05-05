@@ -1,0 +1,12 @@
+node_modules/
+.env
+**/.env
+**/.env.local
+**/.env.*
+!**/.env.example
+.env.local
+.DS_Store
+build/
+client/build/
+dist/
+*.log
